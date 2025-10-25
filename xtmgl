@@ -1,0 +1,29 @@
+---
+name: User Story
+about: Template for creating user stories
+title: ''
+labels: ''
+assignees: ''
+---
+
+## 🧠 User Story
+
+**As a** [type of user]  
+**I need** [some goal or feature]  
+**So that** [reason/benefit]
+
+---
+
+## ✅ Acceptance Criteria (Gherkin format)
+
+**Given** [context]  
+**When** [action]  
+**Then** [expected outcome]
+
+---
+
+## 🏷️ Additional Information
+- **Priority:** [High / Medium / Low]
+- **Story Points:** [1 / 2 / 3 / 5 / 8 / 13]
+- **Milestone (Sprint):** [e.g., Sprint 1 - Authentication]
+- **Labels:** [Product Backlog, Enhancement, Technical Debt (if applicable)]
